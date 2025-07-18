@@ -16,7 +16,7 @@ Let’s start by identifying the most likely causes:
 - **Empty or Misaligned Ink Cartridges:** Low, empty, or improperly installed ink cartridges can cause the printer to stop printing.
 - **Print Queue Errors:** Stuck or paused print jobs in the queue can block new tasks.
 - **Outdated or Corrupted Printer Drivers:** Without current drivers, your printer may not communicate effectively with your computer.
-- **Paper Jam or Hardware Problems:** Blockages inside the printer or internal hardware malfunctions may interrupt printing operations.
+- **Paper Jam or Hardware Problems:** Blockages inside the printer or internal hardware malfunctions may interrupt printing operations
 
 `Click Here: Get the Live Canon Printer Support <https://jivo.chat/KlZSRejpBm>`_
 
